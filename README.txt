@@ -6,3 +6,6 @@ I'll be using this first little repo to solve Project Euler challenges before I 
 
 
 Thanks for checking it out! :D
+
+As [you can see](http://projecteuler.net/progress=Awesumness), I've actually completed a lot more than just the problems in this repo! ;B
+
